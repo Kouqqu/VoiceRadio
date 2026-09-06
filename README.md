@@ -1,14 +1,14 @@
+<div align="center">
+
 # 📻 VoiceRadio
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Minecraft](https://img.shields.io/badge/Minecraft-26.1+-brightgreen.svg)]()
-[![Java](https://img.shields.io/badge/Java-25-blue.svg)]()
+**[🇬🇧 English](#english) • [🇷🇺 Русский](#russian)**
 
-> *[English](#english) • [Русский](#russian)*
+</div>
 
 ---
 
-<a name="english"></a>
+<a id="english"></a>
 ## 🇬🇧 English
 
 **VoiceRadio** is a powerful Minecraft server plugin that allows players to stream online radio directly in-game through proximity voice chat (**Plasmo Voice** or **Simple Voice Chat**), as well as create radio cassettes for regular jukeboxes and listen to audio in 3D.
@@ -52,7 +52,7 @@
 
 ---
 
-<a name="russian"></a>
+<a id="russian"></a>
 ## 🇷🇺 Русский
 
 **VoiceRadio** — это мощный плагин для серверов Minecraft, позволяющий игрокам слушать онлайн-радиопотоки прямо в игре через голосовой чат (**Plasmo Voice** или **Simple Voice Chat**), а также создавать радио-кассеты для обычных проигрывателей и слушать аудио в 3D.
@@ -67,16 +67,16 @@
 
 ### 📋 Команды и права
 
-| Команда | Описание |
-| :--- | :--- |
-| `/radio play <ссылка\|пресет>` | Запустить радиостанцию персонально для себя |
-| `/radio stop` | Остановить персональное радио |
-| `/radio volume <0-100>` | Изменить персональную громкость |
-| `/radio list` | Список доступных пресетов станций |
-| `/radio disc` / `/radio get` | Получить радио-кассету для проигрывателя |
-| `/radio setwave <ссылка\|пресет>` | Настроить радиоволну на пластинке в руках |
-| `/radio setdist <дистанция>` | Настроить радиус вещания 3D-звука пластинки в руках |
-| `/radio reload` или `/radioreload` | Перезагрузить конфигурацию плагина (`voiceradio.admin`) |
+| Команда | Описание | Право |
+| :--- | :--- | :--- |
+| `/radio play <ссылка\|пресет>` | Запустить радиостанцию персонально для себя | *Для всех* |
+| `/radio stop` | Остановить персональное радио | *Для всех* |
+| `/radio volume <0-100>` | Изменить персональную громкость | *Для всех* |
+| `/radio list` | Список доступных пресетов станций | *Для всех* |
+| `/radio disc` / `/radio get` | Получить радио-кассету для проигрывателя | *Для всех* |
+| `/radio setwave <ссылка\|пресет>` | Настроить радиоволну на пластинке в руках | *Для всех* |
+| `/radio setdist <дистанция>` | Настроить радиус вещания 3D-звука пластинки в руках | *Для всех* |
+| `/radio reload` или `/radioreload` | Перезагрузить конфигурацию плагина | `voiceradio.admin` |
 
 ### ⚙️ Требования и совместимость
 
@@ -96,6 +96,6 @@
 
 ---
 
-## 📄 Лицензия
+## 📄 Лицензия / License
 
 Проект распространяется под лицензией [MIT](LICENSE).
