@@ -29,10 +29,11 @@
 
 ---
 
-## ⚙️ Требования
+## ⚙️ Требования и совместимость
 
-- **Серверное ядро**: Paper / Purpur
-- **Java**: Java 25
+- **Версия Minecraft**: `26.1` и выше
+- **Серверные ядра**: `Paper`, `Purpur`, `Spigot`, `Bukkit`
+- **Java**: `Java 25`
 - **Голосовой чат (один из двух на выбор)**:
   - [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) + Plasmo LavaPlayer Lib
   - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
