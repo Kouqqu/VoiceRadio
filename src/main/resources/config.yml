@@ -33,7 +33,4 @@ stations:
     name: "Ретро FM"
     genre: "Gold Retro"
     url: "http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3"
-  montecarlo:
-    name: "Monte Carlo"
-    genre: "Lounge / Pop"
-    url: "https://montecarlo.hostingradio.ru/montecarlo96.aacp"
+  Monte Carlo: "https://montecarlo.hostingradio.ru/montecarlo96.aacp"
