@@ -1,0 +1,21 @@
+# Gradle build and cache
+.gradle/
+build/
+out/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Compiled class files & archives
+*.class
+*.jar
+*.war
+!gradle/wrapper/gradle-wrapper.jar
+
+# OS files
+.DS_Store
+Thumbs.db

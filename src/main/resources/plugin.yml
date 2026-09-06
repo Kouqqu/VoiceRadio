@@ -1,0 +1,12 @@
+name: VoiceRadio
+version: 1.0
+main: com.myname.voiceradio.Main
+api-version: "26.1"
+softdepend: [PlasmoVoice, Voicechat]
+commands:
+  radio:
+    description: Основная команда для управления онлайн-радио
+    usage: /radio <play|stop|volume|list|reload>
+  radioreload:
+    description: Перезагрузка конфигурации плагина VoiceRadio
+    permission: voiceradio.admin

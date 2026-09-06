@@ -1,0 +1,35 @@
+# Громкость по умолчанию для персонального радио в уши (0 - 100)
+default-volume: 20
+
+# Максимально допустимая громкость для персонального радио
+max-volume: 100
+
+# Настройки 3D радио-кассет для проигрывателя
+3d-radio:
+  # Громкость вещания 3D-колонки в мире (0 - 100). 100 — максимальная громкость и мощный сочный звук!
+  volume: 100
+  default-distance: 15
+  allowed-distances: [5, 10, 15, 20, 25, 30]
+
+# Сохраненные пресеты радиостанций.
+stations:
+  record:
+    name: "Radio Record"
+    genre: "EDM / Dance"
+    url: "https://online.radiorecord.ru/rr_320"
+  dfm:
+    name: "DFM"
+    genre: "Pop / Club"
+    url: "https://dfm.hostingradio.ru/dfm96.mp3"
+  studio21:
+    name: "Studio 21"
+    genre: "Hip-Hop / Rap"
+    url: "http://78.140.197.238:9877/msk_studio21"
+  energy:
+    name: "Energy (NRJ)"
+    genre: "Top 40 / Pop"
+    url: "https://energy.hostingradio.ru/nrj128.mp3"
+  retro:
+    name: "Ретро FM"
+    genre: "Retro 80s-90s"
+    url: "https://retroserver.streamr.ru/retro128.mp3"
