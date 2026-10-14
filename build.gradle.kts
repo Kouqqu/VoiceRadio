@@ -20,11 +20,12 @@ repositories {
 }
 
 dependencies {
-    compileOnly("io.papermc.paper:paper-api:26.1.2.build.60-stable")
+    compileOnly("io.papermc.paper:paper-api:26.3.build.184-stable")
     compileOnly("su.plo.voice.api:server:2.1.0")
     compileOnly("su.plo:pv-addon-lavaplayer-lib:1.2.1")
     compileOnly("de.maxhenkel.voicechat:voicechat-api:2.5.0")
     compileOnly("org.jetbrains.kotlin:kotlin-stdlib:2.0.0")
+    compileOnly(fileTree("libs") { include("*.jar") })
 }
 
 java {
