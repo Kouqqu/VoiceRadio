@@ -1,5 +1,5 @@
 name: VoiceRadio
-version: 1.0
+version: 1.0.1
 main: com.myname.voiceradio.Main
 api-version: "26.3"
 softdepend: [PlasmoVoice, Voicechat]
