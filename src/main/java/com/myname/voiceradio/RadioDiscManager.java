@@ -28,7 +28,11 @@ public class RadioDiscManager {
     }
 
     public ItemStack createRadioDisc() {
-        ItemStack disc = new ItemStack(Material.MUSIC_DISC_OTHERSIDE);
+        Material discMat = Material.getMaterial("MUSIC_DISC_OTHERSIDE");
+        if (discMat == null) {
+            discMat = Material.MUSIC_DISC_CAT;
+        }
+        ItemStack disc = new ItemStack(discMat);
         ItemMeta meta = disc.getItemMeta();
         if (meta != null) {
             PersistentDataContainer pdc = meta.getPersistentDataContainer();

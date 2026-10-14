@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.png" alt="VoiceRadio Logo" width="160" />
+
 # 📻 VoiceRadio
 
 **[🇬🇧 English](#english) • [🇷🇺 Русский](#russian)**
@@ -36,9 +38,10 @@
 
 ### ⚙️ Compatibility & Requirements
 
-- **Minecraft Version**: `26.1` and higher
+- **Minecraft Version**: `1.18.2` – `26.3`
+  - **MC 26.1 – 26.3**: use `VoiceRadio-1.0.1-MC26.jar` (Java 25)
+  - **MC 1.18.2 – 1.21.4**: use `VoiceRadio-1.0.1-MC1.18-1.21.jar` (Java 17+)
 - **Server Software**: `Paper`, `Purpur`, `Spigot`, `Bukkit`
-- **Java Runtime**: `Java 25`
 - **Voice Chat Plugin (either one)**:
   - [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) + Plasmo LavaPlayer Lib
   - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
@@ -80,9 +83,10 @@
 
 ### ⚙️ Требования и совместимость
 
-- **Версия Minecraft**: `26.1` и выше
+- **Версия Minecraft**: `1.18.2` – `26.3`
+  - **MC 26.1 – 26.3**: используйте `VoiceRadio-1.0.1-MC26.jar` (Java 25)
+  - **MC 1.18.2 – 1.21.4**: используйте `VoiceRadio-1.0.1-MC1.18-1.21.jar` (Java 17+)
 - **Серверные ядра**: `Paper`, `Purpur`, `Spigot`, `Bukkit`
-- **Java**: `Java 25`
 - **Голосовой чат (один из двух на выбор)**:
   - [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) + Plasmo LavaPlayer Lib
   - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
