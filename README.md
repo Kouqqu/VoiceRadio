@@ -39,8 +39,8 @@
 ### ⚙️ Compatibility & Requirements
 
 - **Minecraft Version**: `1.18.2` – `26.3`
-  - **MC 26.1 – 26.3**: use `VoiceRadio-1.0.1-MC26.jar` (Java 25)
-  - **MC 1.18.2 – 1.21.4**: use `VoiceRadio-1.0.1-MC1.18-1.21.jar` (Java 17+)
+  - **MC 26.1+**: use `VoiceRadio-1.0.1-MC26.jar` (Java 25)
+  - **MC 1.18.x – 1.21.x**: use `VoiceRadio-1.0.1-MC1.18-1.21.jar` (Java 17+)
 - **Server Software**: `Paper`, `Purpur`, `Spigot`, `Bukkit`
 - **Voice Chat Plugin (either one)**:
   - [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) + Plasmo LavaPlayer Lib
@@ -84,8 +84,8 @@
 ### ⚙️ Требования и совместимость
 
 - **Версия Minecraft**: `1.18.2` – `26.3`
-  - **MC 26.1 – 26.3**: используйте `VoiceRadio-1.0.1-MC26.jar` (Java 25)
-  - **MC 1.18.2 – 1.21.4**: используйте `VoiceRadio-1.0.1-MC1.18-1.21.jar` (Java 17+)
+  - **MC 26.1+**: используйте `VoiceRadio-1.0.1-MC26.jar` (Java 25)
+  - **MC 1.18.x – 1.21.x**: используйте `VoiceRadio-1.0.1-MC1.18-1.21.jar` (Java 17+)
 - **Серверные ядра**: `Paper`, `Purpur`, `Spigot`, `Bukkit`
 - **Голосовой чат (один из двух на выбор)**:
   - [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) + Plasmo LavaPlayer Lib
